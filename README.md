@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdrianMehring
+- 👀 I’m interested in Athletics,games,gym,unity
+- 🌱 I’m currently learning Java,C#
+- 📫 How to reach me Github
